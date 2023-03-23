@@ -6,6 +6,7 @@ const HomePage = () => {
     <div className="container">
       <div className="row">
         <div className="col-md-6">
+          <br></br>
           <h1>Welcome to Codebuddy</h1>
           <br />
           <br />
@@ -33,7 +34,7 @@ const HomePage = () => {
           </p>
           <br></br>
           <p>
-            For just £99 a month, you'll gain access to a wealth of knowledge
+            For just £10 a month, you'll gain access to a wealth of knowledge
             and resources that will help you achieve your dream of becoming a
             skilled software developer. Our comprehensive platform provides
             everything you need to succeed, from free resources to expert
@@ -51,6 +52,7 @@ const HomePage = () => {
           </div>
         </div>
         <div className="col-md-6">
+          <br></br>
           <img
             src="https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg"
             alt="placeholder"
